@@ -1,0 +1,30 @@
+{
+    "jokes":
+    [
+    {
+        "id": 1,
+        "question": "Whos there?",
+        "answer": "Me"
+    },
+    {
+        "id": 2,
+        "question": "Why Did The Chicken Cross The Road",
+        "answer": "Me"
+    },
+    {
+        "id": 3,
+        "question": "Why can penguins flap their wings?",
+        "answer": "They don't have wings THEY HAVE FINS!"
+    },
+    {
+        "id": 4,
+        "question": "Why cant I follow along with Jarret",
+        "answer": "Because He'z ZOOMING"
+    },
+    {
+        "id": 5,
+        "question": "mushroom funny?",
+        "answer": "fungi..."
+    }
+    ]
+}
